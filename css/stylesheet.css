@@ -1,3 +1,16 @@
-h1{
-    font-size: 22px;
+
+.review1 {
+    width: 50%;
+    align-content:center;
+    border: 10px solid #a1a5d1;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+}
+body{
+    background-color: #d1b5a1 ;
+}
+.form{
+    padding-left: 10%;
+    padding-right: 10%;
 }
