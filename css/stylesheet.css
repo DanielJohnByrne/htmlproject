@@ -6,9 +6,22 @@
     border-radius: 25px;
     padding: 20px;
     margin: auto;
+    color:white;
+    text-align: center;
+}
+.review2 {
+    width: 50%;
+    align-content:center;
+    border: 10px solid #d1a1a5;
+    border-radius: 25px;
+    padding: 20px;
+    margin: auto;
+    color:white;
+    text-align: center;
 }
 body{
     background-color: #d1b5a1 ;
+      
 }
 .form{
     padding-left: 10%;
@@ -16,5 +29,63 @@ body{
 }
 a{
     text-decoration: none;
-    color: rgb(177, 91, 51);
+    color: rgb(255, 184, 152);
 }
+div{
+    color:white;
+    size:400%;
+}
+.frontpage{
+    text-align: center;
+    width: 100%;
+    color:rgb(255, 255, 255);
+}
+.frontpage p{
+    font-size: 150%;
+
+}
+
+td{
+    font-size: 150%;
+}
+.header{
+    font-size: 120%;
+    text-decoration: underline;
+}
+.table-wrapper {
+  border: 1px solid black;
+  border-radius: 20px;
+  margin: 10%;
+}
+
+table, td, th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-style: hidden;
+}
+#menu{
+    color:white;
+}
+
+
+/* I got help with both selectors below from stackoverflow, there was a lot of troubleshooting to get the dimmed background image to stay dimmed on the pages that scrolled*/
+.wrapper{
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+        url(../images/friends-having-pasta-dinner-white-wine.webp);
+       background-repeat: no-repeat;
+       background-position: 50% 0;
+       background-size: cover;
+}
+.form {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    }
