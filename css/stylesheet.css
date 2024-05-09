@@ -40,9 +40,15 @@ div{
     width: 100%;
     color:rgb(255, 255, 255);
 }
+.frontpage h1{
+    font-size: 300%;
+}
 .frontpage p{
     font-size: 150%;
-
+    margin: 3em 0em
+}
+.frontpage table {
+    margin: 3em 0em
 }
 
 td{
@@ -77,10 +83,16 @@ table {
     padding: 1.2rem 1rem;
 }
 
-.frontpage {
-    max-width: 1080px;
+.content {
+    max-width: 1300px;
     margin: auto;
 }
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
 
 /* navbar text */
 /* default */
@@ -107,10 +119,15 @@ table {
        background-position: 50% 0;
        background-size: cover;
 }
-.form {
+/* .form {
+    this was causing the form to display on top of everything
     position: absolute;
     top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 80%;
+} */
+.form {
+    max-width: 1000px;
+    margin: auto;
 }
