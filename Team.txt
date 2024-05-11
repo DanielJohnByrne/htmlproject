@@ -1,0 +1,3 @@
+Dan Byrne - g00430946
+I began to work on the basic html layout, implementing bootstrap api and basic elements like some css and the navbar.
+I created the files, file structure and did the js for the form. I just laid the functional fundamentals for the website for the extra css touches to be added.
