@@ -5,3 +5,6 @@ I created the files, file structure and did the js for the form. I just laid the
 Maks Breza - g00431096
 I worked on the css and styled all the pages and added additional touches to the website.
 I used bootstrap to make each page responsive so it looks good on all screen sizes.
+
+Michael Burke - g00287288
+I worked on the Menu
