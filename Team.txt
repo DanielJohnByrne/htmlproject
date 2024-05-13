@@ -7,4 +7,4 @@ I worked on the css and styled all the pages and added additional touches to the
 I used bootstrap to make each page responsive so it looks good on all screen sizes.
 
 Michael Burke - g00287288
-I worked on the Menu
+I worked on the Menu page and touched up the main index page in relation to the location or other stores and eircodes.
